@@ -1,11 +1,11 @@
 # NETSEC-roadmap
 
-1. L2\n
----\n
-   Ethernet\n
-   ARP\n
-   VLAN (802.1Q)\n
-   STP / RSTP / MSTP\n
-   LLDP / CDP\n
-   DHCP\n
+1. L2<br>
+---<br>
+   Ethernet<br>
+   ARP<br>
+   VLAN (802.1Q)<br>
+   STP / RSTP / MSTP<br>
+   LLDP / CDP<br>
+   DHCP<br>
 ---

@@ -1,7 +1,6 @@
 # NETSEC-roadmap
 
-1. L2<br>
----
+1. #L2
    <br>
    Ethernet<br>
    ARP<br>
